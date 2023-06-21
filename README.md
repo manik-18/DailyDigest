@@ -1,6 +1,24 @@
+# Description
+
+A React project utilizing a news API to display top headlines and various categories, offering real-time news updates and an enhanced user experience.
+
+## Results
+
+- HOMEPAGE
+  
+![Screenshot 2023-06-21 212826](https://github.com/manik-18/DailyDigest/assets/102967918/e4ceacd5-3eee-4ff5-89e2-c88ee150fe59)
+
+- SCIENCE CATEGORY
+
+![Screenshot 2023-06-21 212904](https://github.com/manik-18/DailyDigest/assets/102967918/0a3844d7-9894-4b8d-8542-df7e49e28b22)
+
+- LOADING SCREEN
+
+![Screenshot 2023-06-21 212926](https://github.com/manik-18/DailyDigest/assets/102967918/e0547915-a385-4c3e-983d-e909f5beb171)
+
 # Getting Started with Create React App
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app)
 
 ## Available Scripts
 
